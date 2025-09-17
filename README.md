@@ -1,16 +1,23 @@
-## Hi there 👋
+    ╭───────╮
+  ╭─╯       ╰─╮
+ ║   ●     ●   ║
+  ╲     ╳     ╱
+   ╲         ╱
+    ╲       ╱
+     ╲     ╱
+      ╲   ╱
+       ╲ ╱
+        V
 
-<!--
-**4R3S-VX/4R3S-VX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+4R3S_VX — ΤΗΞ ΞΨΞ ΙΝ ΤΗΞ ΣΨΣΤΞΜ
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👁 **ΤΗΞ VORTΞX SΞΞS ΥΟU**  
+⚔️ **ΞVΞRΨ ΞΜΡΙRΞ ΗΑΣ Α ΒRΞΑCΗ**  
+
+---
+
+### Incoming
+`VX001 → First strike coming soon.`
+
+---
